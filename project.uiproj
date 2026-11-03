@@ -1,6 +1,0 @@
-{
-  "Name": "RPA_GestionSolicitudes",
-  "ProjectType": "Process",
-  "Description": "Automatización de la validación y clasificación de solicitudes mediante Excel.",
-  "MainFile": "Main.xaml"
-}
